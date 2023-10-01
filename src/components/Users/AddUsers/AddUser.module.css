@@ -1,0 +1,48 @@
+
+
+.form legend {
+  font-weight: 700;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.form div {
+  padding: 1rem;
+}
+
+.form .button {
+  text-align: center;
+  padding-bottom: 0;
+}
+
+.form label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.7rem;
+  padding: 0 0.25rem;
+}
+
+/* .invalid-message {
+  font-size: 13px;
+  color: red;
+  font-style: italic;
+}
+
+.form-control.invalid input {
+  border-color: red;
+  background-color: #ffd7d7;
+}
+
+.form-control.invalid label {
+  color: red;
+} */

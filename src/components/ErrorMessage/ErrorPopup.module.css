@@ -1,0 +1,48 @@
+.error-message {
+	background: none;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(20,17,15,0.8);
+	position: absolute;
+	z-index: 3;
+	text-align: center;
+}
+
+.error-message .container {
+
+	background-color: #F3F3F4;
+	color: #F3F3F4;
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 30%;
+	text-align: center;
+	width: 460px;
+	height: 200px;
+	z-index: 4;
+	border-radius: 10px;
+}
+
+.container h2 {
+	border-radius: 10px 10px 1px 1px;
+	background-color: #8b005d;
+	padding: 0.7rem;
+	font-weight: 700;
+}
+
+.container p {
+	padding: 1.5rem;
+	color: black;
+	font-size: 1.1rem;
+}
+
+.container button {
+	width: 91%;
+}
+
+@media (min-width: 768px) {
+  .container button {
+    width: 50%;
+  }
+}
