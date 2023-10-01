@@ -1,6 +1,8 @@
 ## users_tracker_react
 
-An application to track details of entered users. The project was undertaken through a React course.
+An application to track details of entered users. 
+The project was undertaken through a React course.
+
 Languages used: React, JavaScript, HTML, CSS
 
 
